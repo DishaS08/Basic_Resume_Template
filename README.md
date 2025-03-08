@@ -25,7 +25,9 @@ git clone https://github.com/DishaS08/Basic_Resume_Template.git
 
 
 ## 🖼️ Preview
-Add a screenshot of your resume template for reference.
+
+![image](https://github.com/user-attachments/assets/fa5e946b-59b8-46eb-bdcf-e7a52afbc43b)
+
 
 ## 📬 Contact
 If you have any questions or suggestions, feel free to reach out!
